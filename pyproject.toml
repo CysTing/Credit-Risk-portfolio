@@ -1,0 +1,9 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+markers = ["integration: end-to-end checks using the bundled UCI dataset"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"

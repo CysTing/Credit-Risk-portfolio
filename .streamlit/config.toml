@@ -1,0 +1,30 @@
+[theme]
+base = "light"
+primaryColor = "#087F8C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#152C45"
+font = "sans serif"
+baseRadius = "large"
+showWidgetBorder = true
+borderColor = "#DAE4EE"
+headingFontSizes = ["42px", "28px", "21px", "18px", "16px", "14px"]
+headingFontWeights = [750, 700, 650, 600, 600, 600]
+dataframeHeaderBackgroundColor = "#EAF0F6"
+dataframeBorderColor = "#DAE4EE"
+chartCategoricalColors = ["#087F8C", "#234765", "#B7751D", "#BD4856"]
+showSidebarBorder = false
+
+[theme.sidebar]
+backgroundColor = "#102A43"
+secondaryBackgroundColor = "#1B3A55"
+textColor = "#EEF5FC"
+primaryColor = "#65D6C4"
+borderColor = "#47637B"
+
+[server]
+headless = true
+maxUploadSize = 1
+
+[browser]
+gatherUsageStats = false
