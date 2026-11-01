@@ -1,5 +1,5 @@
 # LendLens · Credit Risk Lab
-
+Streamlit App URL: https://cyscreditriskportfolio.streamlit.app/
 An educational credit default dashboard built with **Python, Scikit-learn, and Streamlit**. Explore a historical credit card portfolio, compare logistic regression with a random forest, inspect probability calibration, and experiment with fictional financial profiles.
 
 **Educational use only. This project is not suitable for real credit approval, pricing, lending decisions, or financial advice.** A credit card default label is not a general loan default or loan approval label.
